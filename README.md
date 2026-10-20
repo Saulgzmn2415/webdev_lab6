@@ -148,5 +148,3 @@ Take the css rules below and properly attach them to the html so that your index
 ***
 {       font-weight: 900;<br>
         font-size: 48px;}
-
-
